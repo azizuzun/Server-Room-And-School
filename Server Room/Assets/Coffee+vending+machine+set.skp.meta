@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: cdda5d5099e5414488e2a86e9c88f45e
+SketchUpImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: a893225436736de43ab26afe145326a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apole (102)#1
+    second: {fileID: 2100000, guid: 65189496167ce8842bf058a9dbfd794d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apole (156)#1
+    second: {fileID: 2100000, guid: e3a86b0f62bb54d44a2a4fcd3c80d0e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apole (161)#1
+    second: {fileID: 2100000, guid: 1c75e5fba9006cd43a5447c8cf06a552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apole (169)#1
+    second: {fileID: 2100000, guid: 413e23021c863bd4ea28af6e6469b75e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apole (181)1#1
+    second: {fileID: 2100000, guid: 656ccfdd96afdab428ecd2be20e0e5ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apole (79)#1
+    second: {fileID: 2100000, guid: 3a130bfc8aef90f429c30ecb929a782f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: csheet (7)#1
+    second: {fileID: 2100000, guid: e366e624f1870ab4ba5513a2f9d48945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escrew (15)#3
+    second: {fileID: 2100000, guid: 0b7dfd54518a1c84caf9024d90d05ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escrew (29)#2
+    second: {fileID: 2100000, guid: 92eeae47a66d2514ab28eb17642444fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vadial3#1
+    second: {fileID: 2100000, guid: 68f8aebfb33d265468f74c86815f6e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vadial6#1
+    second: {fileID: 2100000, guid: 4da83cf10860ef4408ae38b44b1c8953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ven (14.19)
+    second: {fileID: 2100000, guid: ff0d01634fc45784581fbd2ea3230bd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vendlight (2)
+    second: {fileID: 2100000, guid: bd61c51bba6c1944d88d61a903f7a839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vendlight (3)
+    second: {fileID: 2100000, guid: c0a1b55659ee8c94a92de78032f78674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zfotob (200#1
+    second: {fileID: 2100000, guid: 895306e2895f45e42a7f1c23064dfda2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zfotob (201#1
+    second: {fileID: 2100000, guid: 96a855b538ff08c4895bb846bfcce4b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zfotob (202#1
+    second: {fileID: 2100000, guid: 05b78e7b4a726b4498cc8d32c600c8c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe (201#1
+    second: {fileID: 2100000, guid: ea458f9c687b0b54ca57ae4b221acb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe1#1
+    second: {fileID: 2100000, guid: 5025e8c7a872fec4ab8f424f2d9d2e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe229
+    second: {fileID: 2100000, guid: 83183eae6b7bcd24c88d4af78213cdc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe230#2
+    second: {fileID: 2100000, guid: 84f71467b437cbc43bf9b14fccd8dfee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe233#1
+    second: {fileID: 2100000, guid: df628981f02203749b3ecbbc4fd6aac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe235
+    second: {fileID: 2100000, guid: 3d44a6631bed92340b5b8d7eae06f27d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: apole (102)
+    second: {fileID: 2800000, guid: 4fa1656dd6fe2a94bb2a5ff5d42c6092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: apole (156)
+    second: {fileID: 2800000, guid: 43b2a7cc265263b4b959f571f5312f3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: apole (161)_tint0x383838FF
+    second: {fileID: 2800000, guid: 2f516ecad2128ed4ea544f9ca73332e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: apole (169)_tint0x787876FF
+    second: {fileID: 2800000, guid: 1aec2bfde39c00d40b03b4c08636a1c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: apole (181)1_tint0x474746FF
+    second: {fileID: 2800000, guid: a8c48247d3377d548a0432f80ee67806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: apole (79)
+    second: {fileID: 2800000, guid: 42912bce65a74d54a8f06e153875f546, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: csheet (7)_tint0x898C8FFF
+    second: {fileID: 2800000, guid: f717abe3ef4c583488241c0abfa390bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: escrew (15)#1
+    second: {fileID: 2800000, guid: 31ac99f3b241fdd4fafb47d2c263b2dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: escrew (29)#1_tint0x909091FF
+    second: {fileID: 2800000, guid: fa1f7c8d58ef8744cb0b199385441689, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vadial3
+    second: {fileID: 2800000, guid: 026a807e54260d04baed2865628eb844, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vadial6
+    second: {fileID: 2800000, guid: 4253b94919e98844bbf894a4170bcee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ven (14.19)_tint0x1E1F1FFF
+    second: {fileID: 2800000, guid: c8a9bd6d132ea6d4597371233dc477d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vendlight (2)_tint0x3E271DFF
+    second: {fileID: 2800000, guid: e61648b88c9be584b8815032bc34f379, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vendlight (3)_tint0x2B4543FF
+    second: {fileID: 2800000, guid: de3201ca0bc4a084096745237a28a340, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zfotob (200
+    second: {fileID: 2800000, guid: 9a39bb4f48c74b34aaad5549c1a9badf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zfotob (201
+    second: {fileID: 2800000, guid: da5c28494a954c14ba7e7e4389bc62de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zfotob (202
+    second: {fileID: 2800000, guid: 696306f0e0c800d48a942e822da727d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe (201_tint0x545454FF
+    second: {fileID: 2800000, guid: 7dd0fc890e895a74e97ac0dfa8536ac6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe1
+    second: {fileID: 2800000, guid: 5e42e121b79eae045983b81bc31468d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe229
+    second: {fileID: 2800000, guid: 9338512aee486854ba6f6a5d8945a933, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe230
+    second: {fileID: 2800000, guid: 1170478788b15b2459dce01601df65c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe233
+    second: {fileID: 2800000, guid: c4f40903c430c5b4c96881f9fb6782c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zzwolfe235_tint0x3B3A3AFF
+    second: {fileID: 2800000, guid: b14c64f14690da54fb6d2d4b411f2b02, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f01000010010000110100001201000013010000140100001501000016010000
+  assetHash:
+    serializedVersion: 2
+    Hash: aea64d2d340a98249664e8632906de71
+  fileUnit: 0
